@@ -18,5 +18,4 @@
 https://сделайкурс.рф
 
 ### Скриншоты
-![Скриншот 1](./screenshots/screenshot1.png)
-![Скриншот 2](./screenshots/screenshot2.png)
+<img width="1920" height="8277" alt="localhost_3000_ (1)" src="https://github.com/user-attachments/assets/644a5f06-b2dd-4c4a-bffe-9b7695ebf129" />
